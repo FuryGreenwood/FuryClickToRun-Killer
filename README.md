@@ -1,7 +1,7 @@
 # FuryClickToRun-Killer
 Manage the annoying ClickToRun service your way | Administra el molesto servicio de ClickToRun a tu manera 
 
-# ENGISH
+# ENGLISH
 With this small application you can manage the execution of the annoying Microsoft Office Click to Run (SxS) service.
 
 ## How does it work and how is it used?
